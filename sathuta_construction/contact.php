@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Construction | Contact Us</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Construction "Contact Us" Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Construction">
+    <meta name="description" content="Get in touch with Sathuta Construction for any inquiries or information. Contact us via phone, email, or visit our office in Heiyanthuduwa, Sri Lanka.">
+    <meta name="keywords" content="Sathuta Construction contact, contact Sathuta Construction, construction inquiries, contact information, Heiyanthuduwa office, Sri Lanka construction contact, construction services contact">
+
+    <!-- SEO Open Graph Tags for Sathuta Construction "Contact Us" Page -->
+    <meta property="og:title" content="Contact Us | Sathuta Construction">
+    <meta property="og:description" content="Reach out to Sathuta Construction for your construction needs. Contact us via phone, email, or visit our office for more information.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_construction/contact.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_construction/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

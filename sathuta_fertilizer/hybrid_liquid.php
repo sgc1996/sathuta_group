@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Sathuta Hybrid Liquid Fertilizer</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Hybrid Liquid Fertilizer Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Explore Sathuta Hybrid Liquid Fertilizer, a premium blend designed to enhance plant growth and productivity. Discover our range of liquid fertilizers, including Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, and Sathuta Balance Fertilizer, formulated to meet the specific nutrient needs of your crops.">
+    <meta name="keywords" content="Sathuta Fertilizer, Hybrid Liquid Fertilizer, Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, Sathuta Balance Fertilizer, liquid fertilizer, plant growth, productivity, nutrients">
+
+    <!-- SEO Open Graph Tags for Sathuta Hybrid Liquid Fertilizer Page -->
+    <meta property="og:title" content="Sathuta Hybrid Liquid Fertilizer | Sathuta Fertilizer">
+    <meta property="og:description" content="Explore Sathuta Hybrid Liquid Fertilizer, a premium blend designed to enhance plant growth and productivity. Discover our range of liquid fertilizers, including Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, and Sathuta Balance Fertilizer, formulated to meet the specific nutrient needs of your crops.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/hybrid_liquid.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

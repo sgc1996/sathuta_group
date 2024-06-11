@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Sathuta Hybrid Granular/Pellet Fertilizer</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Hybrid Granular Fertilizer Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Discover Sathuta Hybrid Granular Fertilizer, a premium blend designed to optimize plant nutrition and enhance crop yields. Explore our range of granular fertilizers, including Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, and Sathuta Balance Fertilizer, formulated to meet the specific nutrient requirements of your crops.">
+    <meta name="keywords" content="Sathuta Fertilizer, Hybrid Granular Fertilizer, Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, Sathuta Balance Fertilizer, granular fertilizer, plant nutrition, crop yields, nutrients">
+
+    <!-- SEO Open Graph Tags for Sathuta Hybrid Granular Fertilizer Page -->
+    <meta property="og:title" content="Sathuta Hybrid Granular Fertilizer | Sathuta Fertilizer">
+    <meta property="og:description" content="Discover Sathuta Hybrid Granular Fertilizer, a premium blend designed to optimize plant nutrition and enhance crop yields. Explore our range of granular fertilizers, including Sathuta High Nitrogen Fertilizer, Sathuta High Potassium Fertilizer, and Sathuta Balance Fertilizer, formulated to meet the specific nutrient requirements of your crops.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/hybrid_granular.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Construction | News & Events</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Construction "News & Events" Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Construction">
+    <meta name="description" content="Stay updated with the latest news and events from Sathuta Construction. Discover our recent projects, industry updates, and achievements in the construction sector.">
+    <meta name="keywords" content="Sathuta Construction news, construction industry updates, Sathuta events, recent projects, construction achievements, industry news, Sri Lanka construction, company news, Sathuta Construction updates">
+
+    <!-- SEO Open Graph Tags for Sathuta Construction "News & Events" Page -->
+    <meta property="og:title" content="News & Events | Sathuta Construction">
+    <meta property="og:description" content="Catch up on the latest news and events from Sathuta Construction. Learn about our recent projects, industry developments, and company milestones.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_construction/news_event.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_construction/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

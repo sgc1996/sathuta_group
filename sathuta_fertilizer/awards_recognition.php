@@ -15,8 +15,23 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Awards & Recognitions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+   
+    <!-- SEO Meta Tags for Sathuta Fertilizer Awards & Recognitions Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Explore the awards and recognitions received by Sathuta Fertilizer, including licenses for the importation and manufacture of fertilizer. Learn about our commitment to excellence and regulatory compliance in the fertilizer industry.">
+    <meta name="keywords" content="Sathuta Fertilizer, Awards, Recognitions, License for Importation, License for Manufacture, fertilizer industry, regulatory compliance">
+
+    <!-- SEO Open Graph Tags for Sathuta Fertilizer Awards & Recognitions Page -->
+    <meta property="og:title" content="Awards & Recognitions | Sathuta Fertilizer">
+    <meta property="og:description" content="Explore the awards and recognitions received by Sathuta Fertilizer, including licenses for the importation and manufacture of fertilizer. Learn about our commitment to excellence and regulatory compliance in the fertilizer industry.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/awards_recognition.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+        <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

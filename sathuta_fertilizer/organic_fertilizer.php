@@ -15,8 +15,23 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Sathuta Organic Fertilizer</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+   
+    
+    <!-- SEO Meta Tags for Sathuta Organic Fertilizer Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Discover Sathuta Organic Fertilizer, offering a range of eco-friendly and sustainable fertilizers including Sathuta Compost, Sathuta Flower Set Fertilizer, and Sathuta Lion Set Fertilizer. Enhance your agricultural practices with high-quality organic solutions.">
+    <meta name="keywords" content="Sathuta Fertilizer, Organic Fertilizer, Sathuta Compost, Sathuta Flower Set Fertilizer, Sathuta Lion Set Fertilizer, eco-friendly, sustainable, agricultural practices">
+
+    <!-- SEO Open Graph Tags for Sathuta Organic Fertilizer Page -->
+    <meta property="og:title" content="Sathuta Organic Fertilizer | Sathuta Fertilizer">
+    <meta property="og:description" content="Discover Sathuta Organic Fertilizer, offering a range of eco-friendly and sustainable fertilizers including Sathuta Compost, Sathuta Flower Set Fertilizer, and Sathuta Lion Set Fertilizer. Enhance your agricultural practices with high-quality organic solutions.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/organic_pesticide.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

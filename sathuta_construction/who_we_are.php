@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Construction | Who We Are</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Construction "Who We Are" Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Construction">
+    <meta name="description" content="Discover Sathuta Construction, a leading provider of transport, machinery, and construction services in Sri Lanka. With over 20 years of experience, we offer comprehensive services, including machinery rental, transport solutions, and high-quality construction materials.">
+    <meta name="keywords" content="Sathuta Construction, construction services Sri Lanka, transport services, machinery rental, metal crushers, sand washing plants, soil deposits, Sathuta Industry, high-quality construction materials, mobile cranes, backhoes, excavators, rollers, pay loaders, wheel loaders, motor graders, crawler cranes, rafter cranes, sand supply, aggregate supply, quarry operations">
+
+    <!-- SEO Open Graph Tags for Sathuta Construction "Who We Are" Page -->
+    <meta property="og:title" content="Who We Are | Sathuta Construction">
+    <meta property="og:description" content="Sathuta Construction has been providing top-tier transport, machinery, and construction services in Sri Lanka for over 20 years. Our extensive range of services and commitment to quality make us the preferred partner for both local and international clients.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_construction/who_we_are.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_construction/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
