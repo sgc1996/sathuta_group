@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Corporate Profile</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Fertilizer Vision & Mission Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Discover the vision and mission of Sathuta Fertilizer. Our mission is to create innovative, high-quality, and efficient fertilizer products. Our vision is to meet the needs of specialized agriculture, enhancing crop quality and yields in a responsible and environmentally friendly way.">
+    <meta name="keywords" content="Sathuta Fertilizer Vision, Sathuta Fertilizer Mission, innovative fertilizer products, high-quality fertilizers, efficient fertilizers, specialized agriculture, environmentally friendly farming, sustainable agriculture, Sri Lanka fertilizer company">
+
+    <!-- SEO Open Graph Tags for Sathuta Fertilizer Vision & Mission Page -->
+    <meta property="og:title" content="Vision & Mission | Sathuta Fertilizer">
+    <meta property="og:description" content="Learn about the vision and mission of Sathuta Fertilizer. We aim to produce innovative and high-quality fertilizers, enhancing agricultural productivity and sustainability.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/vision_mission.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

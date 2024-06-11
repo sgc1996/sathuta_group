@@ -15,8 +15,21 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Corporate Profile</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Fertilizer About Us Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Learn more about Sathuta Fertilizer, a leading provider of organic and non-organic fertilizers in South Asia. Established in 2013, we are dedicated to delivering high-quality products and exceptional customer service.">
+    <meta name="keywords" content="About Sathuta Fertilizer, organic fertilizer, non-organic fertilizer, South Asia fertilizer, fertilizer company, Sri Lanka fertilizer, agriculture products, fertilizer import, fertilizer services">
+
+    <!-- SEO Open Graph Tags for Sathuta Fertilizer About Us Page -->
+    <meta property="og:title" content="About Us | Sathuta Fertilizer">
+    <meta property="og:description" content="Discover Sathuta Fertilizer, your trusted partner for high-quality organic and non-organic fertilizers in South Asia. Established in 2013, we are committed to providing the best products and services to our valued customers.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/corporate_profile.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

@@ -15,8 +15,21 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Metal Crusher | News & Events</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for News & Events Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Metal Crusher">
+    <meta name="description" content="Stay updated with the latest news and events from Sathuta Metal Crusher. Discover our achievements, new projects, industry insights, and updates on our products and services.">
+    <meta name="keywords" content="Sathuta Industry news, Sathuta Industry events, latest updates, new projects, industry insights, product updates, service updates, achievements, Sri Lanka construction news, Sri Lanka transport services, Sri Lanka machinery supply, Sri Lanka manufacturing updates">
+
+    <!-- SEO Open Graph Tags for News & Events Page -->
+    <meta property="og:title" content="News & Events | Sathuta Metal Crusher">
+    <meta property="og:description" content="Discover the latest news and events from Sathuta Metal Crusher. Learn about our new projects, industry insights, and updates on our products and services.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_metal_crusher/news_event.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_metal_crusher/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

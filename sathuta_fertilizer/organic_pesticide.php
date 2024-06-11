@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Sathuta Organic Pesticide/Fungicide Fertilizer</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Organic Pesticide Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Discover Sathuta Organic Pesticide, a natural solution to control pests and protect your crops. Explore our range of organic pesticides, including Sathuta Organic Fungicide and Sathuta Bio Fertilizer, to promote healthy plant growth without harmful chemicals.">
+    <meta name="keywords" content="Sathuta Fertilizer, Organic Pesticide, Sathuta Organic Fungicide, Sathuta Bio Fertilizer, natural, eco-friendly, pest control, crop protection">
+
+    <!-- SEO Open Graph Tags for Sathuta Organic Pesticide Page -->
+    <meta property="og:title" content="Sathuta Organic Pesticide | Sathuta Fertilizer">
+    <meta property="og:description" content="Discover Sathuta Organic Pesticide, a natural solution to control pests and protect your crops. Explore our range of organic pesticides, including Sathuta Organic Fungicide and Sathuta Bio Fertilizer, to promote healthy plant growth without harmful chemicals.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/organic_pesticide.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

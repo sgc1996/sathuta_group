@@ -15,11 +15,27 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Group</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Group Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Group">
+    <meta name="description" content="Discover Sathuta Group, a leading conglomerate in Sri Lanka with divisions in industry, fertilizer, metal crushing, construction, transport, and machinery. Learn about our comprehensive services and commitment to excellence.">
+    <meta name="keywords" content="Sathuta Group, Sathuta Industry, Sathuta Fertilizer, Sathuta Metal Crusher, Sathuta Construction, Sathuta Transport, Sathuta Machinery, transport services, machinery services, construction services, organic fertilizers, non-organic fertilizers, metal manufacturing, heavy machinery, Sri Lanka">
+
+    <!-- SEO Open Graph Tags for Sathuta Group Page -->
+    <meta property="og:title" content="Sathuta Group | Comprehensive Services in Sri Lanka">
+    <meta property="og:description" content="Explore the diverse services offered by Sathuta Group, including transport, machinery, construction, fertilizers, and metal crushing. Our commitment to quality and excellence ensures the highest satisfaction.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/">
+    <meta property="og:image" content="https://sathutagroup.com/img/icon/sathuta_industy.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
+
+    
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

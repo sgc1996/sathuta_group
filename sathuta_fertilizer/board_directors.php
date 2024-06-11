@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | Corporate Profile</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Fertilizer Board of Directors Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Meet the board of directors at Sathuta Fertilizer. Learn about Mr. Indika Wijesundara, the managing director, and his leadership role in the company's business operations, including machinery, transport, and construction.">
+    <meta name="keywords" content="Sathuta Fertilizer Board of Directors, Indika Wijesundara, Managing Director, Sri Jayawardenepura University, Entrepreneurial Business Management, international machinery business, machinery, transport, construction">
+
+    <!-- SEO Open Graph Tags for Sathuta Fertilizer Board of Directors Page -->
+    <meta property="og:title" content="Board of Directors | Sathuta Fertilizer">
+    <meta property="og:description" content="Meet the board of directors at Sathuta Fertilizer. Learn about Mr. Indika Wijesundara, the managing director, and his leadership role in the company's business operations, including machinery, transport, and construction.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/board_directors.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

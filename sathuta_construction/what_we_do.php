@@ -15,8 +15,22 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Construction | What We Do</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for Sathuta Construction "What We Do" Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Construction">
+    <meta name="description" content="Explore the comprehensive services offered by Sathuta Construction, including the supply of Manufactured Sand, Wash Sand, Sea Sand, River Sand, Quarry Dust, Metal, and Aggregates. We ensure high-quality, on-time deliveries to meet the specific needs of our clients.">
+    <meta name="keywords" content="Sathuta Construction, construction services Sri Lanka, Manufactured Sand, Wash Sand, Sea Sand, River Sand, Quarry Dust, Metal, Aggregates, high-quality sand supply, construction materials, Hanwella, Athurugiriya, modern crushers, reliable supply chain, construction industry">
+
+    <!-- SEO Open Graph Tags for Sathuta Construction "What We Do" Page -->
+    <meta property="og:title" content="What We Do | Sathuta Construction">
+    <meta property="og:description" content="Sathuta Construction provides a wide range of construction materials, including Manufactured Sand, Wash Sand, Sea Sand, River Sand, Quarry Dust, Metal, and Aggregates. Our modern facilities and commitment to quality ensure we meet the needs of our clients efficiently.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_construction/what_we_do.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_construction/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

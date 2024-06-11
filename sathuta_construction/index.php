@@ -15,8 +15,21 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Construction | Home</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <!-- SEO Meta Tags for Sathuta Construction Home Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Construction">
+    <meta name="description" content="Sathuta Construction provides top-quality construction services in Sri Lanka. With over 15 years of experience, we specialize in manufacturing, distribution, and providing reliable construction, transport, and machinery services.">
+    <meta name="keywords" content="Sathuta Construction, construction services Sri Lanka, sand supply, gravel supply, heavy machinery, transport services, Sathuta Industry, reliable construction, top-quality construction, irrigation channels, road construction, building construction, manufactured sand, wash sand, sea sand, river sand, quarry dust, quarry muck, metal aggregates, gravel soil, top soil, rubble, boulders, C1, modern equipment, dedicated team, customer satisfaction">
+
+    <!-- SEO Open Graph Tags for Sathuta Construction Home Page -->
+    <meta property="og:title" content="Sathuta Construction | Build Your Future With Us">
+    <meta property="og:description" content="Sathuta Construction offers comprehensive construction services including sand supply, gravel supply, heavy machinery, and transport services. Our commitment to quality and customer satisfaction makes us the leading construction service provider in Sri Lanka.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_construction/index.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_construction/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

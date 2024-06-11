@@ -15,8 +15,23 @@
     <link rel="icon" href="img/logo.png">
     <title>Sathuta Fertilizer | News & Events</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    
+    <!-- SEO Meta Tags for News and Events Page -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sathuta Fertilizer">
+    <meta name="description" content="Stay updated with the latest news and events from Sathuta Fertilizer. Find out about our company announcements, product launches, industry insights, and more.">
+    <meta name="keywords" content="Sathuta Fertilizer, news, events, company announcements, product launches, industry insights">
+
+    <!-- SEO Open Graph Tags for News and Events Page -->
+    <meta property="og:title" content="News and Events | Sathuta Fertilizer">
+    <meta property="og:description" content="Stay updated with the latest news and events from Sathuta Fertilizer. Find out about our company announcements, product launches, industry insights, and more.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://sathutagroup.com/sathuta_fertilizer/news_event.php">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_fertilizer/img/logo1.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
