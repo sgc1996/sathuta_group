@@ -27,7 +27,7 @@
     <meta property="og:description" content="Learn about Sathuta Industry's 20 years of expertise in transport, machinery, and construction services. Our divisions offer comprehensive solutions for both local and international clients.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://sathutagroup.com/sathuta_transport/who_we_are.php">
-    <meta property="og:image" content=https://sathutagroup.com/sathuta_transport/img/logo1.png">
+    <meta property="og:image" content="https://sathutagroup.com/sathuta_transport/img/logo1.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
